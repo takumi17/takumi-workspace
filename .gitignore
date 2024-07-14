@@ -2,8 +2,8 @@ CNN/Pytorch/best_model.pth
 CNN/Pytorch/cifar_net.pth
 CNN/Pytorch/data/
 
-NLP/BERT/ldcc-20140209.tar.gz
-NLP/BERT/ldcc-20140209.tar.gz.1
+NLP/BERT_Overview/ldcc-20140209.tar.gz
+NLP/BERT_Overview/ldcc-20140209.tar.gz.1
 
-NLP/BERT/text/
-NLP/BERT/model.pth
+NLP/BERT_Overview/text/
+NLP/BERT_Overview/model.pth
