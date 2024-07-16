@@ -7,3 +7,19 @@ NLP/BERT_Overview/ldcc-20140209.tar.gz.1
 
 NLP/BERT_Overview/text/
 NLP/BERT_Overview/model.pth
+
+
+NLP/BERT_review_rating/review_0.csv
+NLP/BERT_review_rating/review_1.csv
+NLP/BERT_review_rating/review_2.csv
+NLP/BERT_review_rating/review_3.csv
+NLP/BERT_review_rating/review_4.csv
+NLP/BERT_review_rating/review_5.csv
+NLP/BERT_review_rating/review_6.csv
+NLP/BERT_review_rating/review_7.csv
+NLP/BERT_review_rating/review_8.csv
+NLP/BERT_review_rating/review_9.csv
+NLP/BERT_review_rating/review_10.csv
+NLP/BERT_review_rating/review_11.csv
+
+NLP/BERT_review_rating/text/
